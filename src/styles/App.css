@@ -1,8 +1,11 @@
-/* code here  */
-.redColor{
 
+.redColor {
+  color: red;
+  font-size: 30px;
 }
 
-.blueColor{
-
+.blueColor {
+  color: blue;
+  font-size: 30px;
+  font-style: italic;
 }
